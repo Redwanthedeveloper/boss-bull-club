@@ -13,57 +13,57 @@ const Team = () => {
             <div className='team__item p-6 ' data-aos='zoom-in'>
               <img src={image} alt='' className='rounded-xl' />
               <h3 className='text-left text-secondary py-4 text-2xl uppercase font-bold'>
-                Lorem, ipsum.
+                Director Of Bags
               </h3>
               <p className='text-left font-body text-primary pb-4'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed
                 veritatis quasi ipsa quas
               </p>
-              <h5 className='text-base font-bold text-secondary text-right uppercase'>
+              {/* <h5 className='text-base font-bold text-secondary text-right uppercase'>
                 - Boss bull
-              </h5>
+              </h5> */}
             </div>
 
             <div className='team__item p-6 ' data-aos='zoom-in'>
               <img src={image} alt='' className='rounded-xl' />
               <h3 className='text-left text-secondary py-4 text-2xl uppercase font-bold'>
-                Lorem, ipsum.
+                Luxury Artist
               </h3>
               <p className='text-left font-body text-primary pb-4'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed
                 veritatis quasi ipsa quas
               </p>
-              <h5 className='text-base font-bold text-secondary text-right uppercase'>
+              {/* <h5 className='text-base font-bold text-secondary text-right uppercase'>
                 - Boss bull
-              </h5>
+              </h5> */}
             </div>
 
             <div className='team__item p-6 ' data-aos='zoom-in'>
               <img src={image} alt='' className='rounded-xl' />
               <h3 className='text-left text-secondary py-4 text-2xl uppercase font-bold'>
-                Lorem, ipsum.
+                Computer Whizz
               </h3>
               <p className='text-left font-body text-primary pb-4'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed
                 veritatis quasi ipsa quas
               </p>
-              <h5 className='text-base font-bold text-secondary text-right uppercase'>
+              {/* <h5 className='text-base font-bold text-secondary text-right uppercase'>
                 - Boss bull
-              </h5>
+              </h5> */}
             </div>
 
             <div className='team__item p-6 ' data-aos='zoom-in'>
               <img src={image} alt='' className='rounded-xl' />
               <h3 className='text-left text-secondary py-4 text-2xl uppercase font-bold'>
-                Lorem, ipsum.
+                Marketing Boss
               </h3>
               <p className='text-left font-body text-primary pb-4'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed
                 veritatis quasi ipsa quas
               </p>
-              <h5 className='text-base font-bold text-secondary text-right uppercase'>
+              {/* <h5 className='text-base font-bold text-secondary text-right uppercase'>
                 - Boss bull
-              </h5>
+              </h5> */}
             </div>
           </div>
         </div>

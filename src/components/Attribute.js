@@ -3,7 +3,7 @@ import image from '../assets/images/attribute.jpg';
 const Attribute = () => {
   return (
     <>
-      <div className='attribute mt-20' id='attribute'>
+      <div className='attribute mt-20' id='gallery'>
         <div className='container mx-auto px-4 lg:px-0'>
           <div className='attribute__top mb-8'>
             <h2 className='text-center text-secondary text-4xl uppercase font-bold'>
