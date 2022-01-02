@@ -57,7 +57,11 @@ const Header = () => {
                   </li>
 
                   <li>
-                    <a href='http://' target='_blank' rel='noopener noreferrer'>
+                    <a
+                      href='https://twitter.com/BagClub7'
+                      target='_blank'
+                      rel='noopener noreferrer'
+                    >
                       <svg
                         fill='currentColor'
                         xmlns='http://www.w3.org/2000/svg'
@@ -94,7 +98,11 @@ const Header = () => {
             <div className='hidden lg:block flex-1'>
               <ul className='flex lg:gap-16 text-primary lg:text-lg uppercase font-medium w-full items-center'>
                 <li>
-                  <a href='http://' target='_blank' rel='noopener noreferrer'>
+                  <a
+                    href='https://www.discord.com/BagClub7'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
                     <svg
                       fill='currentColor'
                       xmlns='http://www.w3.org/2000/svg'
@@ -109,7 +117,11 @@ const Header = () => {
                 </li>
 
                 <li>
-                  <a href='http://' target='_blank' rel='noopener noreferrer'>
+                  <a
+                    href='https://www.twitter.com/BagClub7'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
                     <svg
                       fill='currentColor'
                       xmlns='http://www.w3.org/2000/svg'
