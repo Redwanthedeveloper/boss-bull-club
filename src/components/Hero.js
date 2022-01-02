@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <>
       <div className='hero__section'>
-        <div className='container mx-auto'>
+        <div className='container mx-auto px-4 lg:px-0'>
           <div className='hero__top'>
             <h1 className='text-center font-bold text-4xl lg:text-7xl text-secondary uppercase mt-4'>
               Bag Club 7

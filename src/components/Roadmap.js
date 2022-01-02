@@ -1,5 +1,11 @@
 import React from 'react';
-import image from '../assets/images/roadmap.jpg';
+import roadmapImage1 from '../assets/images/0.png';
+import roadmapImage2 from '../assets/images/1.png';
+import roadmapImage3 from '../assets/images/2.png';
+import roadmapImage4 from '../assets/images/3.png';
+import roadmapImage5 from '../assets/images/4.png';
+import roadmapImage6 from '../assets/images/5.png';
+import roadmapImage7 from '../assets/images/6.png';
 const Roadmap = () => {
   return (
     <>
@@ -18,7 +24,7 @@ const Roadmap = () => {
               <div className='line__holder lg:w-[1px] lg:h-full bg-[#FFFFFF3D] absolute top-0 left-2/4'></div>
               <div className='icon__holder lg:w-12 lg:h-12 bg-[#FFFFFF3D] absolute top-2/4 left-2/4 transform -translate-x-2/4 -translate-y-2/4 rotate-45'></div>
               <div className='left__item lg:pr-20 flex-1 overflow-hidden '>
-                <img src={image} alt='' className='max-w-full' />
+                <img src={roadmapImage1} alt='' className='max-w-full' />
               </div>
               <div className='right__item  lg:pl-20 flex-1'>
                 <h2 className='mb-2 text-secondary text-4xl uppercase font-bold'>
@@ -49,7 +55,7 @@ const Roadmap = () => {
                 </p>
               </div>
               <div className='left__item lg:pl-20 flex-1 overflow-hidden '>
-                <img src={image} alt='' className='max-w-full' />
+                <img src={roadmapImage2} alt='' className='max-w-full' />
               </div>
             </div>
             <div
@@ -60,7 +66,7 @@ const Roadmap = () => {
               <div className='line__holder lg:w-[1px] lg:h-full bg-[#FFFFFF3D] absolute top-0 left-2/4'></div>
               <div className='icon__holder lg:w-12 lg:h-12 bg-[#FFFFFF3D] absolute top-2/4 left-2/4 transform -translate-x-2/4 -translate-y-2/4 rotate-45'></div>
               <div className='left__item lg:pr-20 flex-1 overflow-hidden '>
-                <img src={image} alt='' className='max-w-full' />
+                <img src={roadmapImage3} alt='' className='max-w-full' />
               </div>
               <div className='right__item  lg:pl-20 flex-1'>
                 <h2 className='mb-2 text-secondary text-4xl uppercase font-bold'>
@@ -93,7 +99,7 @@ const Roadmap = () => {
                 </p>
               </div>
               <div className='left__item lg:pl-20 flex-1 overflow-hidden '>
-                <img src={image} alt='' className='max-w-full' />
+                <img src={roadmapImage4} alt='' className='max-w-full' />
               </div>
             </div>
 
@@ -105,7 +111,7 @@ const Roadmap = () => {
               <div className='line__holder lg:w-[1px] lg:h-full bg-[#FFFFFF3D] absolute top-0 left-2/4'></div>
               <div className='icon__holder lg:w-12 lg:h-12 bg-[#FFFFFF3D] absolute top-2/4 left-2/4 transform -translate-x-2/4 -translate-y-2/4 rotate-45'></div>
               <div className='left__item lg:pr-20 flex-1 overflow-hidden '>
-                <img src={image} alt='' className='max-w-full' />
+                <img src={roadmapImage5} alt='' className='max-w-full' />
               </div>
               <div className='right__item  lg:pl-20 flex-1'>
                 <h2 className='mb-2 text-secondary text-4xl uppercase font-bold'>
@@ -140,7 +146,7 @@ const Roadmap = () => {
                 </p>
               </div>
               <div className='left__item lg:pl-20 flex-1 overflow-hidden '>
-                <img src={image} alt='' className='max-w-full' />
+                <img src={roadmapImage6} alt='' className='max-w-full' />
               </div>
             </div>
 
@@ -152,7 +158,7 @@ const Roadmap = () => {
               <div className='line__holder lg:w-[1px] lg:h-full bg-[#FFFFFF3D] absolute top-0 left-2/4'></div>
               <div className='icon__holder lg:w-12 lg:h-12 bg-[#FFFFFF3D] absolute top-2/4 left-2/4 transform -translate-x-2/4 -translate-y-2/4 rotate-45'></div>
               <div className='left__item lg:pr-20 flex-1 overflow-hidden '>
-                <img src={image} alt='' className='max-w-full' />
+                <img src={roadmapImage7} alt='' className='max-w-full' />
               </div>
               <div className='right__item  lg:pl-20 flex-1'>
                 <h2 className='mb-2 text-secondary text-4xl uppercase font-bold'>

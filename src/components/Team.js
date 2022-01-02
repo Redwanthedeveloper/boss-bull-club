@@ -1,5 +1,5 @@
 import React from 'react';
-import image from '../assets/images/item.jpg';
+import image from '../assets/images/11.png';
 
 const Team = () => {
   return (
